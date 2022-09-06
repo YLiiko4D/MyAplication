@@ -7,9 +7,10 @@ body{
     font-family: 'Maven Pro', sans-serif;
 }
 
-#baner{
+#baner img{
     display: block;
     margin: auto 50px;
     width: 500px;
     border-radius: 50px;
 }
+
