@@ -5,3 +5,4 @@ im gonna hack pentagon
 Learn Git Branching
 
 https://yliiko4d.github.io/MyAplication/
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
