@@ -5,6 +5,13 @@ body{
     padding: 0;
     margin: 0;
     font-family: 'Maven Pro', sans-serif;
+    background-image: url("placki.jpg");
+    transition: 9999999s;
+}
+
+body:hover{
+    transform: rotate(99999999deg);
+    transition: 9999999s;
 }
 
 #baner img{
